@@ -1,0 +1,16 @@
+{
+    "messages": [
+      {
+        "versionRange": ">0.0.15",
+        "region": "au-syd, in-che, jp-osa, jp-tok, kr-seo, eu-de, eu-gb, ca-tor, us-south, us-south-test, us-east, br-sao",
+        "os": "win32,win64,linux32, linux64, ppc64le, s390x, linux-arm64, osx, osx-arm64",
+        "message": "Sometime in this quarter, it will hopefully"
+      },
+      {
+        "versionRange": "<0.0.15",
+        "region": "au-syd, in-che, jp-osa, jp-tok, kr-seo, eu-de, eu-gb, ca-tor, us-south, us-south-test, us-east, br-sao",
+        "os": "win32,win64,linux32, linux64, ppc64le, s390x, linux-arm64, osx, osx-arm64",
+        "message": "Users of 'ibmcloud account user-reinvite' must update to CLI release 2.7.0 or higher by August 2, 2022 for uninterrupted use. To update, use 'ibmcloud update'"
+      }
+    ]
+  }
